@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "mark-js"
+  "defaultProject": "mark-js",
+  "cli": {
+    "analytics": "8e3b4abe-d491-4df9-b9aa-95806a7b10e3"
+  }
 }

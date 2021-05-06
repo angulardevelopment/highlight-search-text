@@ -1,3 +1,13 @@
+# About
+
+packages used-
+mark.js
+
+To generate pipe-
+ng g p basic/mark
+
+https://markjs.io/configurator.html
+
 # MarkJs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.

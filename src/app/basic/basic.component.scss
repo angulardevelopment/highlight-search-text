@@ -1,0 +1,37 @@
+p {
+  font-family: Lato;
+}
+
+.highlighted{
+  background-color: #FF7043;
+}
+
+body {
+  margin: 15px;
+}
+
+div.search span,
+div.search input[name="keyword"] {
+  display: block;
+}
+
+div.search input[name="keyword"] {
+  margin-top: 4px;
+}
+
+div.panel {
+  margin-bottom: 15px;
+}
+
+div.panel .panel-body p:last-child {
+  margin-bottom: 0;
+}
+
+mark {
+  padding: 0;
+  // background: #003F7D;
+  // color: #fff;
+
+  background: orange;
+    color: black;
+}
