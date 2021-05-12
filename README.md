@@ -1,5 +1,23 @@
 # About
 
+
+API endpoint (get method)
+Data it contains
+
+{
+        "city": "New York", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 40.7127837, 
+        "longitude": -74.0059413, 
+        "population": "8405837", 
+        "rank": "1", 
+        "state": "New York"
+    }, 
+
+autocomplete feature added-
+search on change and keyup
+
+
 packages used-
 mark.js
 

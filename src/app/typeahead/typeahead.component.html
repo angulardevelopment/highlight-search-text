@@ -1,0 +1,8 @@
+
+<form class="search-form">
+  <input type="text" name= "search" placeholder="Search"class="search" placeholder="City or State" [(ngModel)]="value" (change)="getData()" (keyup)="getData()">
+  <ul class="suggestions" [innerHTML]="list">
+    <li>Filter for a city</li>
+    <li>or a state</li>
+  </ul>
+</form>

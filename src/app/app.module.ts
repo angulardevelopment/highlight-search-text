@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { BasicComponent } from './basic/basic.component';
 import { FormsModule } from '@angular/forms';
 import { MarkPipe } from './basic/mark.pipe';
+import { TypeaheadComponent } from './typeahead/typeahead.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BasicComponent,
-    MarkPipe
+    MarkPipe,
+    TypeaheadComponent
   ],
   imports: [
     BrowserModule,
