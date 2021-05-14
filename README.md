@@ -1,5 +1,6 @@
-# About
+# About Search App
 
+In this, You  can search the states of USA by typing you can get the suggestion.
 
 API endpoint (get method)
 Data it contains
